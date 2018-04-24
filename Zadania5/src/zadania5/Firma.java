@@ -5,13 +5,19 @@
  */
 package zadania5;
 
-public class Zadania5 {
+/**
+ *
+ * @author Mati
+ */
+import java.util.Scanner;
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+
+
+public class Firma {
+    
+    Scanner wej = new Scanner(System.in);
+    Pracownik pracownicy[];
+    
+    
     
 }
